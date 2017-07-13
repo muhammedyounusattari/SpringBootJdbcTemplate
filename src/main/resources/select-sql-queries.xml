@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+
+<properties>
+	
+    <entry key="getUsers">
+		<![CDATA[ SELECT count(*) FROM cu_users
+		]]>
+	</entry>
+	
+	<entry key="getUsers1">
+		<![CDATA[ SELECT count(*) FROM cu_users
+		]]>
+	</entry> 	
+</properties>
